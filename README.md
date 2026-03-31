@@ -102,6 +102,6 @@ java -cp out expensetracker.ExpenseTrackerGUI
 
 ## Author
 
-**[Lakshya Bansal]**  
+**[Hardik Barpete]**  
 Course: Programming in Java  
 Submitted: March 2026
